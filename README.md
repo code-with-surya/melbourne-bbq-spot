@@ -13,7 +13,7 @@ Sink your teeth into our smoky, tender BBQ chicken, grilled fresh to absolute pe
 
 *Built With:* HTML5, CSS3, 100% Built on Mobile
 
-*Author:* Surya - code-with-surya | Day 7
+*Author:* code-with-surya | Day 8 of coding 
 
 *Offer:* 60% off on your first order!
 
