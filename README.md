@@ -1,6 +1,6 @@
 ## 🔴 Live Demo: https://melbourne-bbq.netlify.app
 
-🔥 Melbourne BBQ Spot - Melbourne BBQ Chicken 🍗
+ Melbourne BBQ Spot - Melbourne BBQ Chicken 🍗
 
 Sink your teeth into our smoky, tender BBQ chicken, grilled fresh to absolute perfection.
 
@@ -14,8 +14,6 @@ Sink your teeth into our smoky, tender BBQ chicken, grilled fresh to absolute pe
 - Premium Cuts: Quarters ($9-$12), Breast ($13-$16), Tender Baskets ($11-$14)
 
 *Built With:* HTML5, CSS3, 100% Built on Mobile
-
-*Author:* code-with-surya | Day 8 of coding 
 
 *Offer:* 60% off on your first order!
 
