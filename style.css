@@ -18,6 +18,23 @@ a {
   margin-left: 10px;
   color: green;
 }
+.menu-card {
+  background-color: white;
+  max-width: 850px;
+  margin: 20px auto;
+  padding: 25px;
+  border-radius: 15px;
+}
+.gallery {
+  display: flex;
+  gap: 10px;
+  overflow-x: auto;
+  padding: 10px 0;
+}
+.gallery img {
+  border-radius: 10px;
+  object-fit: cover;
+}
 /* --- Order Page --- */
 .card {
   background-color: white;
