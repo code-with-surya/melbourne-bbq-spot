@@ -18,3 +18,27 @@ a {
   margin-left: 10px;
   color: green;
 }
+/* --- Order Page --- */
+.card {
+  background-color: white;
+  max-width: 400px;
+  margin: auto;
+  padding: 30px;
+  border-radius: 15px;
+  text-align: center;
+}
+.time-box {
+  background-color: #fff8e7;
+  padding: 15px;
+  border-radius: 10px;
+  text-align: center;
+}
+button {
+  background-color: #ff6f00;
+  color: white;
+  font-size: 18px;
+  padding: 12px 25px;
+  border: none;
+  border-radius: 8px;
+  margin-top: 15px;
+}
