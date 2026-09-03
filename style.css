@@ -36,9 +36,17 @@ a {
 button {
   background-color: #ff6f00;
   color: white;
+  font-size: 14px;
+  padding: 6px 12px;
+  border: none;
+  border-radius: 6px;
+  cursor: pointer;
+}
+
+/* This is only for the big button on order page */
+.card button {
   font-size: 18px;
   padding: 12px 25px;
-  border: none;
   border-radius: 8px;
   margin-top: 15px;
 }
