@@ -6,7 +6,7 @@ Sink your teeth into our smoky, tender BBQ chicken, grilled fresh to absolute pe
 
 *Created On: 27th August 2026*
 
-*What's Inside:*
+What's inside:
 - Hero Title: Melbourne BBQ chicken
 - Why You Will Love It: Juicy & Tender, Signature Glaze, Charred Perfection
 - 4 Chicken Images
