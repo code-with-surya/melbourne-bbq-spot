@@ -35,7 +35,6 @@ a {
   border-radius: 10px;
   object-fit: cover;
 }
-/* --- Order Page --- */
 .card {
   background-color: white;
   max-width: 400px;
@@ -59,11 +58,23 @@ button {
   border-radius: 6px;
   cursor: pointer;
 }
-
-/* This is only for the big button on order page */
 .card button {
   font-size: 18px;
   padding: 12px 25px;
   border-radius: 8px;
   margin-top: 15px;
+}
+.btn {
+  display: inline-block;
+  background: #c0392b;
+  color: white;
+  padding: 8px 16px;
+  text-decoration: none;
+  border-radius: 8px;
+  font-weight: bold;
+  margin-left: 8px;
+}
+
+.btn:hover {
+  background: #96281b;
 }
